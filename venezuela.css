@@ -1,0 +1,50 @@
+body{
+    background: linear-gradient(yellow, blue, red);
+    margin: auto;
+    
+}
+.pad{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+h1{
+    text-align: center;
+    text-shadow: 2px 2px white;
+    font-size: 60px;
+    color:black;
+    font-family: 
+    Georgia, 'Times New Roman', Times, serif;
+    text-decoration:underline;
+}
+
+p{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    color: blanchedalmond;
+    text-shadow: black 3px 3px;
+    border: black 2px dashed;
+}
+
+a{
+    text-decoration: none;
+    color: blanchedalmond;
+    font-size: 30px;
+    text-shadow: black 3px 3px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h2{
+    text-shadow: 1px 1px white;
+    font-size: 30px;
+    text-align: center;
+}
